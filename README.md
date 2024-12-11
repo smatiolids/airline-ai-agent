@@ -8,9 +8,11 @@ Follow the instructions in YouTube:
 
 ## Database Setup
 
-We will load DataStax Astra to store the data. 
+You should have a DataStax Astra account and then create a database.
 
-You should have a DataStax Astra account and then create a database. 
+To create an account, you can use this link: https://bit.ly/ds-langflow
+
+After creating an account, you can create a database. 
 
 ### Loading the flight tickets data
 
@@ -61,3 +63,15 @@ After that, you can load the invoice data into the table running the commands fr
 
 ## Creating the Langflow Agent Flow
 
+You can follow the instruction in the video. But here is the JSON file you can import into Langflow to create the flow:
+
+[Airline Agent.json](Airline%20Agent.json)
+
+# Contact
+
+If you have any questions, please contact me at:
+
+- Email: [samuel.matioli@datastax.com](mailto:samuel.matioli@datastax.com)
+- LinkedIn: [@samuel-matioli](https://www.linkedin.com/in/samuel-matioli/)
+- Website: [langflow.com](https://langflow.com)
+- DataStax: [datastax.com](https://bit.ly/ds-langflow)
