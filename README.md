@@ -77,6 +77,6 @@ To enable the Langsmith, you can set the environment variable `LANGCHAIN_TRACING
 If you have any questions, please contact me at:
 
 - Email: [samuel.matioli@datastax.com](mailto:samuel.matioli@datastax.com)
-- LinkedIn: [@samuel-matioli](https://www.linkedin.com/in/samuel-matioli/)
+- LinkedIn: [@samuelmatioli](https://www.linkedin.com/in/samuelmatioli/)
 - Website: [langflow.com](https://langflow.com)
 - DataStax: [datastax.com](https://bit.ly/ds-langflow)
