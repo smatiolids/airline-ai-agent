@@ -68,7 +68,7 @@ You can follow the instruction in the video. But here is the JSON file you can i
 
 # Langsmith
 
-You can use the Langsmith to track the flow. Here is the link to the Langsmith dashboard: https://app.smith.langchain.com/
+You can use the Langsmith to track the flow. Here is the link to the Langsmith dashboard: https://smith.langchain.com/
 
 To enable the Langsmith, you can set the environment variable `LANGCHAIN_TRACING_V2=true` and `LANGCHAIN_API_KEY=lsv2_...`.
 
