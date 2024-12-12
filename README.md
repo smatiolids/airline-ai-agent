@@ -1,10 +1,9 @@
-# Airline AI Agent with Langflow and DataStax Astra
+# Airline AI Agent with Langflow and DataStax Astra DB
 
 Follow the instructions in YouTube:
 
 - Database setup
 - Creating Langflow
-
 
 ## Database Setup
 
@@ -66,6 +65,12 @@ After that, you can load the invoice data into the table running the commands fr
 You can follow the instruction in the video. But here is the JSON file you can import into Langflow to create the flow:
 
 [Airline Agent.json](Airline%20Agent.json)
+
+# Langsmith
+
+You can use the Langsmith to track the flow. Here is the link to the Langsmith dashboard: https://app.smith.langchain.com/
+
+To enable the Langsmith, you can set the environment variable `LANGCHAIN_TRACING_V2=true` and `LANGCHAIN_API_KEY=lsv2_...`.
 
 # Contact
 
