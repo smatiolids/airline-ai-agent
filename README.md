@@ -64,7 +64,7 @@ After that, you can load the invoice data into the table running the commands fr
 
 You can follow the instruction in the video. But here is the JSON file you can import into Langflow to create the flow:
 
-[Airline Agent.json](Airline%20Agent.json)
+[Airline Agent.json](airline_agent/Airline%20Agent.json)
 
 # Langsmith
 
